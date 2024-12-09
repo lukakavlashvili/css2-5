@@ -1,0 +1,531 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+
+.first {
+  background: #fbf9ff;
+  padding: 12px 32px;
+  height: 72px;
+  width: 1920px;
+}
+
+.Logo {
+  padding: 13.489px;
+  margin-left: 32px;
+  display: inline-block;
+}
+
+.div {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.FAQ {
+  vertical-align: middle;
+  display: inline-block;
+  color: #323232;
+  font-size: 18px;
+  font-weight: 400;
+  margin: 0 593px;
+}
+
+.span {
+  color: #323232;
+  font-size: 18px;
+  margin-left: 20px;
+  font-weight: 400;
+}
+
+.button {
+  padding: 8px 16px;
+  border-radius: 8px;
+  border: 1px solid #6941c6;
+  background: #6941c6;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 500;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.dove {
+  display: inline-block;
+  width: 105px;
+}
+
+.fulldiv {
+  padding: 96px;
+  background: #f1e8ff;
+  width: 1440px;
+  height: 3083px;
+  margin: 0 auto;
+  margin-top: 94px;
+}
+
+.Pricing {
+  color: #181d27;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 800;
+  margin-top: 96px;
+}
+
+.Simple {
+  color: #535862;
+  text-align: center;
+  font-size: 24px;
+  font-weight: 800;
+  width: 768px;
+  margin: 20px auto 0;
+}
+
+.firstboard {
+  padding: 40px 32px 32px 32px;
+  background-color: #fff;
+  display: inline-block;
+  border-radius: 16px;
+  border: 1px solid #e9eaeb;
+  margin-top: 32px;
+  margin-left: 18px;
+  vertical-align: middle;
+}
+
+.mom {
+  margin: 0 auto;
+  width: 93px;
+}
+
+.buttonboad {
+  padding: 4px 12px;
+  background: #f9f5ff;
+  border: 1px solid #e9d7fe;
+  border-radius: 9999px;
+  color: #6941c6;
+  text-align: center;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.tendollar {
+  color: #181d27;
+  text-align: center;
+  font-size: 48px;
+  font-weight: 600;
+  margin-top: 16px;
+}
+
+.popular {
+  color: #535862;
+  text-align: center;
+  font-size: 16px;
+  font-weight: 400;
+  margin-top: 8px;
+}
+
+.startedbutton {
+  border-radius: 8px;
+  border: 2px solid rgba(255, 255, 255, 0.12);
+  background: #7f56d9;
+  width: 309px;
+  height: 48px;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 600px;
+  margin-top: 16px;
+}
+
+.sales {
+  padding: 12px 18px;
+  border-radius: 8px;
+  border: 1px solid #d5d7da;
+  background: #fff;
+  width: 309px;
+  height: 48px;
+  margin-top: 12px;
+  color: #414651;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.line {
+  border-bottom: 1px solid #e9eaeb;
+  width: 309px;
+  margin-top: 32px;
+}
+
+.svg {
+  margin-top: 33px;
+  vertical-align: middle;
+}
+
+.firstp {
+  color: #535862;
+  font-size: 16px;
+  font-weight: 400;
+  vertical-align: middle;
+  display: inline-block;
+  margin-top: 33px;
+  margin-left: 8px;
+}
+
+.svg_first {
+  vertical-align: middle;
+  display: inline-block;
+}
+
+.basic {
+  margin-top: 16px;
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 8px;
+  color: #535862;
+  font-size: 16px;
+}
+
+.svg2 {
+  margin-top: 16px;
+  vertical-align: middle;
+}
+
+.firstboard2 {
+  padding: 40px 32px 32px 32px;
+  background-color: #fff;
+  display: inline-block;
+  border-radius: 16px;
+  border: 1px solid #e9eaeb;
+  margin-top: 32px;
+  margin-left: 128px;
+  width: 373px;
+  height: 570px;
+  margin-left: 32px;
+  margin-top: 32px;
+  vertical-align: middle;
+}
+
+.butt {
+  margin: 0 auto;
+  width: 117px;
+}
+
+.mth2 {
+  color: #181d27;
+  text-align: center;
+  font-size: 48px;
+  font-weight: 600;
+  margin-top: 16px;
+}
+
+.Growing {
+  color: #535862;
+  text-align: center;
+  font-size: 16px;
+  font-weight: 400;
+  margin-top: 8px;
+}
+
+.boards {
+  padding: 40px 32px 32px 32px;
+  background-color: #fff;
+  border-radius: 16px;
+  border: 1px solid #e9eaeb;
+  vertical-align: middle;
+  width: 373px;
+  display: inline-block;
+  margin-left: 32px;
+  margin-top: 32px;
+}
+
+.buttt {
+  margin: 0 auto;
+  width: 122px;
+}
+
+.mth3 {
+  color: #181d27;
+  text-align: center;
+  font-size: 48px;
+  font-weight: 600;
+  margin-top: 16px;
+}
+
+.oooog {
+  margin-top: 18px;
+}
+
+.second {
+  padding: 32px 0px;
+  border-radius: 24px;
+  background-color: #fff;
+  display: inline-block;
+  width: 1248px;
+  height: 1257px;
+  margin-top: 64px;
+}
+
+.h1 {
+  color: #181d27;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 800;
+}
+
+.need {
+  color: #535862;
+  text-align: center;
+  font-size: 24px;
+  font-weight: 400;
+  margin-top: 20px;
+}
+
+.free {
+  width: 768px;
+  padding: 32px;
+  border-radius: 16px;
+  background: #e4e4e4;
+  margin-left: 240px;
+  margin-top: 32px;
+  height: 168px;
+  width: 768px;
+}
+
+.Logo2 {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.there {
+  color: #181d27;
+  font-size: 16px;
+  font-weight: 400;
+  vertical-align: middle;
+  display: inline-block;
+  margin-left: 24px;
+}
+
+.can {
+  color: #535862;
+  font-size: 19px;
+  font-weight: 400;
+  margin-left: 52px;
+  margin-top: 8px;
+  width: 656px;
+}
+
+.red {
+  width: 768px;
+  padding: 32px;
+  border-radius: 16px;
+  border: 2px solid #ff2323;
+  background: #ffe5e5;
+  margin-top: 16px;
+  margin-left: 240px;
+  height: 144px;
+}
+
+.change {
+  color: #181d27;
+  font-size: 16px;
+  font-weight: 500;
+  vertical-align: middle;
+  display: inline-block;
+  margin-left: 24px;
+}
+
+.your {
+  color: #535862;
+  margin-top: 8px;
+  font-size: 19px;
+  font-weight: 400;
+  margin-left: 52px;
+}
+
+.blue {
+  padding: 32px;
+  width: 768px;
+  border-radius: 16px;
+  background: #e9d7ff;
+  margin-top: 16px;
+  margin-left: 240px;
+  height: 168px;
+}
+
+.green {
+  width: 768px;
+  padding: 32px;
+  border-radius: 16px;
+  background: #f7f4ff;
+  margin-left: 240px;
+  height: 168px;
+  margin-top: 16px;
+}
+
+.aqua {
+  width: 768px;
+  padding: 32px;
+  border-radius: 16px;
+  border: 4px solid #326dff;
+  background: #dce6ff;
+  margin-left: 240px;
+  margin-top: 16px;
+  height: 168px;
+}
+
+.does {
+  color: #181d27;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: 500;
+  vertical-align: middle;
+  margin-left: 24px;
+}
+
+.pink {
+  width: 768px;
+  padding: 32px;
+  border-radius: 16px;
+  background: #ffd5e7;
+  height: 168px;
+  margin-left: 240px;
+  margin-top: 16px;
+}
+
+.lastboard {
+  padding: 32px 0px;
+  border-radius: 24px;
+  background: #fff;
+  margin-top: 64px;
+  width: 1248px;
+  height: 758px;
+}
+
+.reviews {
+  color: #181d27;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 600;
+}
+
+.been {
+  height: 256px;
+  width: 580px;
+  padding: 32px;
+  border-radius: 12px;
+  border: 1px solid #e9eaeb;
+  background-color: #fff;
+  margin-top: 64px;
+  margin-left: 32px;
+}
+
+.using {
+  color: #181d27;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.wrapper_zangi {
+  display: inline-block;
+}
+.wrapper_zangi * {
+  display: inline-block;
+  margin: 0;
+}
+
+.picture {
+  border-radius: 9999px;
+  
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.Sienna {
+    font-size: 18px;
+    color: #181D27;
+    font-weight: 600;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.pwichka {
+    vertical-align: middle;
+    display: inline-block;
+}
+
+.project {
+    color: #535862;
+    font-size: 16px;
+    font-weight: 400;
+    vertical-align: middle;
+    display: block;
+}
+
+.gogo {
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 12px;
+}
+
+#bondo {
+  margin-left: 148px;
+  display: inline-block;
+}
+
+#hola {
+  margin-left: 196px;
+  display: inline-block;
+}
+
+#opaaa {
+  margin-left: 128px;
+  display: inline-block;
+}
+
+.warpspeed {
+    margin-left: 195px;
+    display: inline-block;
+}
+
+.been2 {
+    height: 256px;
+    width: 580px;
+    padding: 32px;
+    border-radius: 12px;
+    border: 1px solid #e9eaeb;
+    background-color: #fff;
+    margin-top: 24px;
+    margin-left: 32px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.bijo {
+  margin-top: 80px;
+}
+
+.been3 {
+    height: 256px;
+    width: 580px;
+    padding: 32px;
+    border-radius: 12px;
+    border: 1px solid #e9eaeb;
+    background-color: #fff;
+    margin-top: -534px;
+    margin-left: 32px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.been4 {
+    height: 256px;
+    width: 580px;
+    padding: 32px;
+    border-radius: 12px;
+    border: 1px solid #e9eaeb;
+    background-color: #fff;
+    margin-left: 32px;
+    margin-top: 24px;
+    display: inline-block;
+    vertical-align: middle;
+}
